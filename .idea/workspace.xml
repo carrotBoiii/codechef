@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20d28bf-25a7-4022-b171-7c4e2691568a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/beginner/FindRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/FirstAndLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/LuckyFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codechef/beginner/MaximumTopologicalSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/MaximumTopologicalSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/FirstAndLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/FirstAndLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +58,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="false" />
   </component>
-  <component name="RunManager" selected="Application.FindRemainder">
+  <component name="RunManager" selected="Application.LuckyFour">
     <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner.ATM" />
       <module name="codechef" />
@@ -92,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumTopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.MaximumTopologicalSort" />
+    <configuration name="FirstAndLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner.FirstAndLastDigit" />
+      <module name="codechef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner.LuckyFour" />
       <module name="codechef" />
       <extension name="coverage">
         <pattern>
@@ -120,10 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LuckyFour" />
+        <item itemvalue="Application.FirstAndLastDigit" />
         <item itemvalue="Application.FindRemainder" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.MaximumTopologicalSort" />
       </list>
     </recent_temporary>
   </component>
@@ -151,5 +164,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added one more code to the set" />
     <option name="LAST_COMMIT_MESSAGE" value="added one more code to the set" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

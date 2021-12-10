@@ -8,11 +8,10 @@ public class SumOfDigits {
         int limit = in.nextInt();
         System.out.println("Ok Mah guy now carry on go ahead and enter your numbers");
         for (int i = 1; i <= limit; i++){
-            int place = 10, sum = 0, num = in.nextInt();
+            int sum = 0, num = in.nextInt();
             while(num > 0){
-                sum += (num % place);
-                num = (int)(num / place);
-                place *= 10;
+                sum += (num % 10);
+                num = (int)(num / 10);
             }
             System.out.println(sum);
         }
@@ -30,11 +29,10 @@ public class SumOfDigits {
         Scanner in = new Scanner(System.in);
         int sum = 0, limit = in.nextInt();
         for (int i = 1; i <= limit; i++){
-            int place = 10, sum = 0, num = in.nextInt();
+            int sum = 0, num = in.nextInt();
             while(num > 0){
-                sum += (num % place);
-                num = num / place;
-                place *= 10;
+                sum += (num % 10);
+                num = num / 10;
             }
             System.out.println(sum);
         }
