@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20d28bf-25a7-4022-b171-7c4e2691568a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/beginner/LuckyFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/FirstAndLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/FirstAndLastDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beginner/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="ReaderModeSettings">

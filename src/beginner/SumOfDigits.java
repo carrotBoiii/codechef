@@ -15,7 +15,7 @@ public class SumOfDigits {
             }
             System.out.println(sum);
         }
-        System.out.println("So mah negga just made me do this BRUH");
+        System.out.println("So mah guy just made me do this BRUH");
     }
 }
 
